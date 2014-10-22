@@ -11,8 +11,8 @@ taps on it, using setTranslationZ().
 Pre-requisites
 --------------
 
-- Android SDK (L Preview)
-- Android Build Tools v20
+- Android SDK (21)
+- Android Build Tools v21
 - Android Support Repository
 
 Getting Started
