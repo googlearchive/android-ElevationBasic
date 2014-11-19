@@ -1,9 +1,6 @@
 Android ElevationBasic Sample
 ==============================
 
-Introduction
-------------
-
 This sample demonstrates two alternative ways to move a view in the z-axis. The
 first view has a fixed elevation using XML and the second one is raised when the user
 taps on it, using setTranslationZ().
@@ -11,7 +8,7 @@ taps on it, using setTranslationZ().
 Pre-requisites
 --------------
 
-- Android SDK (L Preview)
+- Android SDK (L Developer Preview)
 - Android Build Tools v20
 - Android Support Repository
 
@@ -36,7 +33,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 License
 -------
 
-Copyright 2014 The Android Open Source Project
+Copyright 2014 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
