@@ -5,8 +5,12 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [UI]
+categories:   [UI, Input]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-ElevationBasic
+level:        BEGINNER
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.view.MotionEvent
 license: apache2
